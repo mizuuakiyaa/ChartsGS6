@@ -1,5 +1,5 @@
 # ChartsGS6
-A GitHub repository that has custom & original charts made specially for offline rhythm game GridlessSekai6
+A GitHub repository that contains custom & original charts made specially for offline rhythm game GridlessSekai6
 
 # Credits:
 
