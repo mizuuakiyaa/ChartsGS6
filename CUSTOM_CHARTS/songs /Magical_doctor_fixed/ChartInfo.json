@@ -1,0 +1,44 @@
+{
+  "identifier": "47ba921c-d36a-492d-9e42-4f0a5b30c6f4_38e6fecd-a687-40f1-813f-87cfc0f71474",
+  "format_version": 1,
+  "title": {
+    "jp": "マジカルドクター",
+    "en": "マジカルドクター"
+  },
+  "charter": "Patenero Pallateo#1862905",
+  "difficulties": [
+    {
+      "difficulty": "expert",
+      "level": 30,
+      "notes": 1265
+    }
+  ],
+  "lyricist": {
+    "jp": "-",
+    "en": "-"
+  },
+  "composer": {
+    "jp": "-",
+    "en": "-"
+  },
+  "arranger": {
+    "jp": "-",
+    "en": "-"
+  },
+  "artist": {
+    "jp": "MARETU",
+    "en": "MARETU"
+  },
+  "vocals": {
+    "jp": "MARETU",
+    "en": "MARETU"
+  },
+  "isFullLength": true,
+  "vocaloid_or_other": "other",
+  "offset_ms": 325,
+  "additional_mv_offset_ms": 0,
+  "song_duration": 154.574,
+  "original": null,
+  "original_music_video": false,
+  "2d_music_video": false
+}

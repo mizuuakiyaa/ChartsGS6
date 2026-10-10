@@ -1,0 +1,44 @@
+{
+  "identifier": "0666638d-025a-4410-a85e-d446df02af56_0c3956e6-c963-4bfb-ae97-839235fd6300",
+  "format_version": 1,
+  "title": {
+    "jp": "Floatplay",
+    "en": "Floatplay"
+  },
+  "charter": "ELECTRONEER on next sekai",
+  "difficulties": [
+    {
+      "difficulty": "master",
+      "level": 30,
+      "notes": 995
+    }
+  ],
+  "lyricist": {
+    "jp": "Inabakumori",
+    "en": "Inabakumori"
+  },
+  "composer": {
+    "jp": "Inabakumori",
+    "en": "Inabakumori"
+  },
+  "arranger": {
+    "jp": "Inabakumori",
+    "en": "Inabakumori"
+  },
+  "artist": {
+    "jp": "Inabakumori",
+    "en": "Inabakumori"
+  },
+  "vocals": {
+    "jp": "Kaai Yuki",
+    "en": "Kaai Yuki"
+  },
+  "isFullLength": false,
+  "vocaloid_or_other": "other",
+  "offset_ms": 0,
+  "additional_mv_offset_ms": 0,
+  "song_duration": 135.81,
+  "original": null,
+  "original_music_video": false,
+  "2d_music_video": false
+}

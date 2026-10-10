@@ -1,0 +1,44 @@
+{
+  "identifier": "3175f01b-7e5b-4c9b-bd0a-69fdb808326b_f75434e6-0e54-497b-b58c-ce19359b2053",
+  "format_version": 1,
+  "title": {
+    "jp": "スポットレイト [SPOT LATE]",
+    "en": "スポットレイト [SPOT LATE]"
+  },
+  "charter": "Mizuki Akiyamaha",
+  "difficulties": [
+    {
+      "difficulty": "master",
+      "level": 28,
+      "notes": 1465
+    }
+  ],
+  "lyricist": {
+    "jp": "-",
+    "en": "-"
+  },
+  "composer": {
+    "jp": "-",
+    "en": "-"
+  },
+  "arranger": {
+    "jp": "-",
+    "en": "-"
+  },
+  "artist": {
+    "jp": "宵崎 奏 / INABAKUMORI",
+    "en": "宵崎 奏 / INABAKUMORI"
+  },
+  "vocals": {
+    "jp": "宵崎 奏 / INABAKUMORI",
+    "en": "宵崎 奏 / INABAKUMORI"
+  },
+  "isFullLength": true,
+  "vocaloid_or_other": "other",
+  "offset_ms": 0,
+  "additional_mv_offset_ms": 0,
+  "song_duration": 169.771,
+  "original": null,
+  "original_music_video": false,
+  "2d_music_video": false
+}
